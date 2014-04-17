@@ -1,0 +1,9 @@
+Building Diamond
+
+See doc/readme-qt.rst for instructions on building Diamond QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Diamond.
+
+See doc/build-*.txt for instructions on building Diamondd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Diamond.
